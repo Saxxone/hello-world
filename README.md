@@ -1,3 +1,3 @@
 # hello-world
 My First Repo
-I'm a web developer who'sm building skills in sass and react.
+I'm a web developer who's building skills in sass and react.
